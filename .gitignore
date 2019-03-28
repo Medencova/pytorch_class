@@ -12,5 +12,5 @@ train1
 микроскоп 2
 all_scalars.json
 checkpoint
-__pycach__
+__pycache__
 models/__pycache__
